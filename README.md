@@ -20,3 +20,8 @@ I received W. Avy's data on Hawaii weather collections as a sqlite file. I was a
 ![June_Temps](https://user-images.githubusercontent.com/97328622/161444477-8fc80f7d-a46a-42c0-b435-0df381372429.png)
 
 ![December_Temps](https://user-images.githubusercontent.com/97328622/161444484-c13b3a07-d37e-4d6b-8f39-53522aafd7d0.png)
+
+
+## Summary
+
+When it comes to considering opening a surf shop, weather and temperature is a major factor in its success. In my opinion, W. Avy can open up shop year-round. Although the shop may experience a temperature as low as 56 degrees in the month of december, this should deter the business from the fact that the month of June and December average a temperature within the mid 70s. Definitely beautiful weather for a surf shop to be open. One additional query I would perform would be changing up the months, like choosing March and September to gain a further understanding on whether the surf shop should remain open all year-round. Another query I would perform is creating histograms and sorting the data frame by dates.
