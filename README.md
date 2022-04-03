@@ -6,6 +6,6 @@ W. Avy wants more information about temperature trends before opening the surf s
 
 ### Purpose
 
-The purpose is to provide data and a business if it will be sustainable year-round to run and evalutate if we could expand to other islands, and how conditions would vary for the business.
+The purpose is to provide data to a business if it will be sustainable year-round to run and evalutate if we could expand to other islands, and how conditions would vary for the business.
 
 ## Results
